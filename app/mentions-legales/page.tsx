@@ -14,8 +14,8 @@ export default function MentionsLegalesPage() {
             <div className="mentions-content-wrapper">
               <p><strong>Nom de l'entreprise :</strong> Thadéus Externalia</p>
               <p><strong>Forme juridique :</strong> Entreprise Individuelle</p>
-              <p><strong>Siège social :</strong> Logement 149, Cité Livaosoa Ambatara
-              Antananarivo 101, Madagascar</p>
+             <p><strong>Siège social :</strong> Logement 148, Cité Livasoa Anosiala
+Anjanamasina, Madagascar</p>
 
               <p><strong>Téléphone :</strong> +261 32 17 575 66</p>
               <p><strong>Email :</strong> thadeus@jurisexternalia.com</p>

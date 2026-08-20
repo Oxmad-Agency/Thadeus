@@ -40,15 +40,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Navbar />
         <main>{children}</main>
         <Footer />
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-J033ZDEWNC" strategy="lazyOnload" />
-        <Script id="google-analytics" strategy="lazyOnload">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-J033ZDEWNC');
-          `}
-        </Script>
+       <Script src="https://www.googletagmanager.com/gtag/js?id=G-KQBJDKN8G9" strategy="lazyOnload" />
+<Script id="google-analytics" strategy="lazyOnload">
+  {`
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-KQBJDKN8G9');
+  `}
+</Script>
       </body>
     </html>
   );
