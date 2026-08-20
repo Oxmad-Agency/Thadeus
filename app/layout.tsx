@@ -28,6 +28,9 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://www.jurisexternalia.com"),
   alternates: { canonical: "/" },
   icons: { icon: "/favicon.png" },
+  verification: {
+    google: "35g7Y4Bg5mixdbAaam6OPH23iXt8kfbAVkvA-U7FCGA",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
