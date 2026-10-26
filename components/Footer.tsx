@@ -98,7 +98,7 @@ export default function Footer() {
                   <circle cx="12" cy="10" r="3"/>
                 </svg>
                 <span>
-                  Logement 149, Cité Lovasoa Ambatara<br />
+                  Logement 148, Cité Livasoa Ambatara<br />
                   Antananarivo 101, Madagascar
                 </span>
               </div>
